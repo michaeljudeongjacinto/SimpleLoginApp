@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/editMenu"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/edit">
+    </item>
+
+    <item
+        android:id="@+id/changeProfilePicMenu"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/change_profile_picture">
+    </item>
+
+    <item
+        android:id="@+id/changePasswordMenu"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/change_password">
+    </item>
+
+    <item
+        android:id="@+id/changeEmailMenu"
+        android:orderInCategory="200"
+        app:showAsAction="never"
+        android:title="Change Email">
+    </item>
+
+    <item
+        android:id="@+id/deleteAccountMenu"
+        android:orderInCategory="300"
+        app:showAsAction="never"
+        android:title="Delete Account">
+    </item>
+
+</menu>

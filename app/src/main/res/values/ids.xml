@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="aboutmeMenu" type="id" />
+    <item name="changeEmail" type="id" />
+    <item name="deleteAccount" type="id" />
+    <item name="changeEmailMenu" type="id" />
+</resources>
